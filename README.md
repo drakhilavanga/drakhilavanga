@@ -91,6 +91,10 @@ GIS-driven public health intelligence platform designed to identify geographic p
 - Resource Allocation Support
 - Public Health Decision Intelligence
 
+**🌐 Live Dashboard**
+
+https://akhilavanga.shinyapps.io/MHVIP/
+
 **📂 GitHub Repository**
 
 https://github.com/drakhilavanga/maternal-health-vulnerability-intelligence-platform

@@ -2,14 +2,14 @@
 
 ## Clinical Epidemiologist | Biostatistician | Public Health Informatics
 
-MS Clinical Epidemiology graduate from Kent State University with research experience in epidemiology, biostatistics, public health research, healthcare analytics, and public health informatics. Passionate about developing data-driven solutions that support disease surveillance, spatial epidemiology, maternal health, and evidence-based public health decision-making.
+MS Clinical Epidemiology graduate from Kent State University with research experience in epidemiology, biostatistics, public health research, healthcare analytics, and public health informatics. Author of two peer-reviewed journal publications and co-author of a book on healthcare management. Passionate about developing data-driven solutions that advance disease surveillance, spatial epidemiology, maternal and child health, and evidence-based public health decision-making.
 
 ---
 
 # 🎓 Education
 
-**Master of Science (MS) – Clinical Epidemiology**  
-Kent State University, Kent, Ohio
+**Master of Science (MS) – Clinical Epidemiology**
+Kent State University, Kent, Ohio, USA
 
 **Bachelor of Dental Surgery (BDS)**
 
@@ -19,39 +19,42 @@ Kent State University, Kent, Ohio
 
 ## Cleveland Clinic – Quantitative Health Sciences
 
-Research Intern
+**Research Intern**
 
-- Survey-weighted statistical analysis using HINTS 7 data
-- SAS statistical programming
-- Epidemiologic research
-- Scientific manuscript preparation
-- Literature review and evidence synthesis
-- Healthcare data analysis
-- Biostatistical reporting
+* Conducted survey-weighted statistical analyses using the Health Information National Trends Survey (HINTS 7)
+* Performed SAS statistical programming and healthcare data analysis
+* Contributed to epidemiologic research and scientific manuscript development
+* Conducted literature reviews and evidence synthesis
+* Prepared statistical tables, figures, and analytical reports supporting research projects
 
 ---
 
 # 💻 Technical Skills
 
-### Statistical Software
-- SAS
-- R
-- SPSS
+## Statistical Software
 
-### Public Health & Research
-- Clinical Epidemiology
-- Biostatistics
-- Public Health Surveillance
-- Scientific Writing
-- Healthcare Analytics
-- Research Methodology
+* SAS
+* R
+* SPSS
 
-### GIS & Data Visualization
-- ArcGIS
-- GIS Mapping
-- Spatial Epidemiology
-- R Shiny
-- Dashboard Development
+## Public Health & Research
+
+* Clinical Epidemiology
+* Biostatistics
+* Public Health Surveillance
+* Scientific Writing
+* Healthcare Analytics
+* Research Methodology
+* Survey Data Analysis
+
+## GIS & Data Visualization
+
+* ArcGIS
+* Spatial Epidemiology
+* GIS Mapping
+* R Shiny
+* Interactive Dashboard Development
+* Data Visualization
 
 ---
 
@@ -59,20 +62,22 @@ Research Intern
 
 ## 🦠 Influenza Surveillance and Forecasting Dashboard
 
-Interactive public health intelligence platform developed using CDC FluView surveillance data, R Shiny, ARIMA forecasting, and GIS visualization.
+An interactive public health intelligence platform developed using CDC FluView surveillance data, R Shiny, ARIMA forecasting, and GIS visualization to support influenza surveillance, forecasting, and public health preparedness.
 
-### Features
-- Influenza surveillance monitoring
-- ARIMA-based forecasting
-- Risk classification
-- Interactive visualizations
-- Public health preparedness support
+### Key Features
 
-**🌐 Live Dashboard**
+* Interactive influenza surveillance dashboard
+* ARIMA-based forecasting
+* CDC FluView data integration
+* GIS visualization
+* Influenza risk classification
+* Public health decision support
+
+### 🌐 Live Dashboard
 
 https://akhilavanga.shinyapps.io/influenza-surveillance-dashboard/
 
-**📂 GitHub Repository**
+### 📂 GitHub Repository
 
 https://github.com/drakhilavanga/influenza-surveillance-dashboard
 
@@ -80,22 +85,26 @@ https://github.com/drakhilavanga/influenza-surveillance-dashboard
 
 ## 🤰 Maternal Health Vulnerability Intelligence Platform (MHVIP)
 
-GIS-driven public health intelligence platform designed to identify geographic patterns of maternal vulnerability across U.S. counties by integrating healthcare access, social vulnerability, transportation burden, and socioeconomic indicators.
+An explainable GIS-based public health decision intelligence platform designed to identify geographic patterns of maternal vulnerability across the United States.
 
-### Features
-- Maternal Vulnerability Score (MVS)
-- GIS Mapping
-- Spatial Hotspot Analysis
-- Local Moran's I Cluster Detection
-- Healthcare Access Intelligence
-- Resource Allocation Support
-- Public Health Decision Intelligence
+The platform integrates healthcare access, social vulnerability, transportation burden, workforce availability, and socioeconomic indicators to support evidence-informed maternal health planning and resource prioritization.
 
-**🌐 Live Dashboard**
+### Key Features
+
+* Maternal Vulnerability Score (MVS)
+* Interactive GIS Mapping
+* Spatial Hotspot Analysis
+* Local Moran's I Cluster Detection
+* Healthcare Access Intelligence
+* Resource Allocation Support
+* Public Health Decision Intelligence
+* Explainable Spatial Analytics
+
+### 🌐 Live Dashboard
 
 https://akhilavanga.shinyapps.io/MHVIP/
 
-**📂 GitHub Repository**
+### 📂 GitHub Repository
 
 https://github.com/drakhilavanga/maternal-health-vulnerability-intelligence-platform
 
@@ -103,45 +112,69 @@ https://github.com/drakhilavanga/maternal-health-vulnerability-intelligence-plat
 
 # 📚 Publications
 
-### Peer-Reviewed Publications
+## 📖 Book
 
-1. Assessment of Oral Health Knowledge Among Medical Graduates.
+**Dhakad G, Sharma P, Saluja A, Vanga A.** (2026)
 
-2. Dental Myths and Beliefs Among Medical Graduates.
+**Advance Health System Management: Leadership, Policy, and Innovation in Modern Healthcare**
+
+Essay Publication Research and Consultancy.
+
+**ISBN:** 978-81-994414-4-6
+
+---
+
+## 📄 Peer-Reviewed Journal Publications
+
+### 1. Assessment of Oral Health Knowledge Among Medical Graduates – A Cross-Sectional Survey
+
+**International Journal of Community Medicine and Public Health** (2024)
+
+**DOI:** https://doi.org/10.18203/2394-6040.ijcmph20241821
+
+---
+
+### 2. Dental Myths and Beliefs Among Medical Graduates – A Cross-Sectional Survey
+
+**CODS Journal of Dentistry** (2023)
+
+**DOI:** https://doi.org/10.5005/jp-journals-10063-0153
 
 ---
 
 # 🏅 Honors & Memberships
 
-- Delta Omega Honorary Society in Public Health
-- Cleveland Clinic Research Intern
-- Kent State University Graduate Researcher
+* Delta Omega Honorary Society in Public Health
+* Cleveland Clinic Research Intern
+* Kent State University Graduate Researcher
 
 ---
 
 # 🔍 Research Interests
 
-- Clinical Epidemiology
-- Public Health Informatics
-- Disease Surveillance
-- GIS & Spatial Epidemiology
-- Maternal & Child Health
-- Healthcare Analytics
-- Artificial Intelligence in Healthcare
-- Public Health Decision Intelligence
+* Clinical Epidemiology
+* Biostatistics
+* Public Health Informatics
+* Disease Surveillance
+* Spatial Epidemiology
+* Maternal & Child Health
+* Healthcare Analytics
+* Geographic Information Systems (GIS)
+* Artificial Intelligence in Healthcare
+* Public Health Decision Intelligence
 
 ---
 
 # 🌐 Connect With Me
 
-**LinkedIn**
+### LinkedIn
 
 https://www.linkedin.com/in/akhila-reddy-1811511b3
 
-**ORCID**
+### ORCID
 
 https://orcid.org/0009-0002-4273-3221
 
-**GitHub**
+### GitHub
 
 https://github.com/drakhilavanga
